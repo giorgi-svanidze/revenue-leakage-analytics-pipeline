@@ -16,8 +16,7 @@ Retailer OTIF and compliance deductions cost CPG suppliers **$40B+ annually**. M
 - Disputes are handled case-by-case with no visibility into systemic patterns
 - Root causes (dock congestion vs. carrier failure vs. warehouse error) are never separated
 
-This pipeline answers the upstream question: **where is the leakage coming from, and which operational patterns predict invalid deductions?**
-
+This pipeline identifies where revenue leakage originates and quantifies the operational drivers behind invalid deductions.
 It is the analytics layer behind [MarginRecover](https://github.com/giorgi-svanidze/marginrecover) — which handles individual dispute workflows.
 
 ---
