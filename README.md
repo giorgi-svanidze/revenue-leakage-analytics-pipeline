@@ -164,6 +164,14 @@ This pipeline is the analytical layer that sits above it: while MarginRecover ca
 
 ---
 
+## What this project demonstrates
+
+- SQL-based data modeling (staging → intermediate → marts)
+- Realistic trade spend and deduction simulation
+- KPI design for revenue leakage detection
+- Use of window functions (LAG) for QoQ trend analysis
+- Data pipeline orchestration using Python + DuckDB
+
 ## Author
 
 Giorgi Svanidze
