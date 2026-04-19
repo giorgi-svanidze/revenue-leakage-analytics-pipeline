@@ -1,0 +1,9 @@
+code,description,typically_valid
+OTIF-LATE,Late delivery OTIF penalty,0.55
+OTIF-INFULL,Not delivered in full,0.45
+ASN-MISSING,ASN not submitted or late,0.6
+LABEL-NONCOMP,Label non-compliance,0.5
+EDI-ERROR,EDI/PO mismatch,0.35
+SHORT-SHIP,Shortage claim,0.5
+DAMAGE,Damaged goods claim,0.65
+PROMO-DISCREP,Promotional allowance dispute,0.4

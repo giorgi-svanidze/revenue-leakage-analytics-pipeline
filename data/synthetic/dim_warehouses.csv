@@ -1,0 +1,7 @@
+warehouse_id,warehouse_name,region,capacity_tier
+WH01,Dallas DC,South,large
+WH02,Chicago DC,Midwest,large
+WH03,Atlanta DC,South,medium
+WH04,LA DC,West,large
+WH05,Edison DC,Northeast,medium
+WH06,Memphis DC,South,small

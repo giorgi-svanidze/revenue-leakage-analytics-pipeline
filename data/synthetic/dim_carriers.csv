@@ -1,0 +1,5 @@
+carrier_id,carrier_name,on_time_rate,tier
+C01,Carrier X,0.93,preferred
+C02,Carrier Y,0.88,standard
+C03,Carrier Z,0.91,standard
+C04,Carrier W,0.79,spot

@@ -1,0 +1,9 @@
+sku_id,sku_name,category,brand,unit_cost,case_pack
+SKU001,Protein Bar 12pk,Nutrition Bars,NutriBrand,18.5,12
+SKU002,Greek Yogurt 32oz,Dairy,FreshFarm,4.2,6
+SKU003,Granola 24oz,Cereal,NutriBrand,6.8,8
+SKU004,Almond Butter 16oz,Spreads,NutSpread,9.4,6
+SKU005,Plant Protein 2lb,Supplements,NutriBrand,32.0,4
+SKU006,Oat Milk 64oz,Alt Milk,OatCo,5.6,6
+SKU007,Energy Bar 6pk,Nutrition Bars,NutriBrand,11.2,12
+SKU008,Trail Mix 20oz,Snacks,NutSpread,7.8,8

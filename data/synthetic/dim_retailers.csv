@@ -1,0 +1,9 @@
+retailer_id,retailer_name,channel,otif_threshold,deduction_aggressiveness
+R001,Walmart,Mass,0.98,high
+R002,Target,Mass,0.95,medium
+R003,Amazon,Ecommerce,0.99,very_high
+R004,Kroger,Grocery,0.95,medium
+R005,Costco,Club,0.97,medium
+R006,Albertsons,Grocery,0.93,low
+R007,HEB,Grocery,0.94,low
+R008,Publix,Grocery,0.95,medium

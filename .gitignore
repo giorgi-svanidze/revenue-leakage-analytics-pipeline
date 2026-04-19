@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+*.egg-info/
+.DS_Store
+
+# Keep dim CSVs (small, stable), ignore large fact tables
+data/synthetic/fact_*.csv
+analysis/*.csv
+*.duckdb
