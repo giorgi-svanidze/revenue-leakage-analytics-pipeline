@@ -37,6 +37,13 @@ It is the analytics layer behind [MarginRecover](https://github.com/giorgi-svani
 
 ---
 
+## Key Recommendation
+
+Based on the analysis, suppliers should prioritize:
+- auditing retailer deduction policies (Amazon, Walmart)
+- investigating SHORT-SHIP discrepancies at warehouse level
+- implementing systematic dispute automation for high-invalid-rate retailers
+
 ## Architecture
 
 ```
@@ -171,7 +178,15 @@ This pipeline is the analytical layer that sits above it: while MarginRecover ca
 - Use of window functions (LAG) for QoQ trend analysis
 - Data pipeline orchestration using Python + DuckDB
 
+## How to explain this project
+
+This project simulates a real-world CPG trade spend analytics workflow:
+- raw operational data → cleaned staging models → business-facing marts
+- SQL used for aggregation, KPI calculation, and trend analysis
+- Python used for orchestration and pipeline execution
+
 ## Author
 
 Giorgi Svanidze
+
 Chemical Engineering + Supply Chain @ Case Western Reserve University
