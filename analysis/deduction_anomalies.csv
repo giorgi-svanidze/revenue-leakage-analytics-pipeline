@@ -1,0 +1,247 @@
+retailer_name,reason_code,reason_description,fiscal_quarter,deduction_count,total_deduction_amount,invalid_count,invalid_amount,invalid_rate_pct,avg_count_hist,avg_amount_hist,count_zscore,amount_zscore,is_anomaly,anomaly_direction
+Publix,EDI-ERROR,EDI/PO mismatch,FY2024Q3,9,1783.0,7,1383.0,77.8,4.0,567.0,1.49,1.5,False,normal
+Publix,SHORT-SHIP,Shortage claim,FY2024Q3,4,1467.0,4,1467.0,100.0,5.25,3817.0,-0.83,-1.5,False,normal
+Albertsons,SHORT-SHIP,Shortage claim,FY2024Q2,7,2159.0,7,2159.0,100.0,5.75,3533.0,1.31,-1.49,False,normal
+Walmart,ASN-MISSING,ASN not submitted or late,FY2023Q4,11,4446.0,10,4324.0,90.9,7.25,2396.0,1.43,1.48,False,normal
+Costco,PROMO-DISCREP,Promotional allowance dispute,FY2023Q4,1,5911.0,0,,0.0,1.25,2351.0,-0.5,1.48,False,normal
+HEB,OTIF-INFULL,Not delivered in full,FY2023Q4,13,5437.0,10,4883.0,76.9,8.75,3053.0,1.29,1.47,False,normal
+Costco,DAMAGE,Damaged goods claim,FY2024Q1,6,7719.0,4,5281.0,66.7,3.5,3750.0,1.31,1.45,False,normal
+Walmart,OTIF-LATE,Late delivery OTIF penalty,FY2024Q3,20,34629.0,19,34120.0,95.0,16.75,18724.0,0.81,1.44,False,normal
+Costco,OTIF-INFULL,Not delivered in full,FY2024Q1,3,2821.0,2,2554.0,66.7,7.5,4461.0,-1.45,-1.43,False,normal
+Costco,OTIF-LATE,Late delivery OTIF penalty,FY2024Q1,17,16957.0,16,14483.0,94.1,11.75,9648.0,1.23,1.43,False,normal
+Publix,ASN-MISSING,ASN not submitted or late,FY2023Q4,16,4637.0,13,4329.0,81.3,8.5,2628.0,1.44,1.42,False,normal
+Albertsons,OTIF-LATE,Late delivery OTIF penalty,FY2024Q1,20,15442.0,18,14066.0,90.0,13.25,7646.0,1.26,1.42,False,normal
+Amazon,LABEL-NONCOMP,Label non-compliance,FY2023Q4,3,869.0,3,869.0,100.0,6.0,1608.0,-1.22,-1.42,False,normal
+Amazon,OTIF-INFULL,Not delivered in full,FY2024Q3,15,12675.0,13,12099.0,86.7,11.0,6687.0,1.1,1.4,False,normal
+Kroger,LABEL-NONCOMP,Label non-compliance,FY2023Q4,10,5236.0,10,5236.0,100.0,5.75,2225.0,1.05,1.39,False,normal
+HEB,ASN-MISSING,ASN not submitted or late,FY2023Q4,7,3650.0,4,1598.0,57.1,8.5,2179.0,-0.5,1.39,False,normal
+Albertsons,LABEL-NONCOMP,Label non-compliance,FY2024Q3,5,2132.0,5,2132.0,100.0,4.5,909.0,0.29,1.39,False,normal
+Walmart,LABEL-NONCOMP,Label non-compliance,FY2024Q2,3,524.0,1,456.0,33.3,5.75,1309.0,-1.1,-1.38,False,normal
+Amazon,SHORT-SHIP,Shortage claim,FY2023Q4,7,5895.0,6,4909.0,85.7,7.75,8271.0,-0.44,-1.38,False,normal
+Amazon,OTIF-LATE,Late delivery OTIF penalty,FY2023Q4,21,23651.0,19,22668.0,90.5,15.25,15094.0,1.43,1.37,False,normal
+Kroger,ASN-MISSING,ASN not submitted or late,FY2024Q3,3,658.0,3,658.0,100.0,8.5,2840.0,-1.31,-1.37,False,normal
+Publix,OTIF-INFULL,Not delivered in full,FY2023Q4,9,7139.0,8,6614.0,88.9,7.0,4145.0,0.82,1.36,False,normal
+Kroger,OTIF-INFULL,Not delivered in full,FY2024Q2,10,5872.0,10,5872.0,100.0,8.25,4456.0,0.64,1.36,False,normal
+HEB,DAMAGE,Damaged goods claim,FY2023Q4,4,2613.0,1,1355.0,25.0,2.5,1078.0,1.16,1.35,False,normal
+Target,ASN-MISSING,ASN not submitted or late,FY2024Q2,7,1608.0,7,1608.0,100.0,7.5,2465.0,-0.39,-1.35,False,normal
+Kroger,EDI-ERROR,EDI/PO mismatch,FY2024Q2,5,772.0,3,333.0,60.0,4.25,464.0,0.78,1.34,False,normal
+Target,EDI-ERROR,EDI/PO mismatch,FY2024Q2,4,128.0,3,112.0,75.0,4.5,468.0,-0.5,-1.34,False,normal
+Costco,SHORT-SHIP,Shortage claim,FY2024Q2,6,6375.0,5,5668.0,83.3,8.5,7874.0,-1.2,-1.33,False,normal
+Costco,EDI-ERROR,EDI/PO mismatch,FY2024Q2,7,811.0,5,649.0,71.4,4.0,413.0,1.39,1.3,False,normal
+Target,OTIF-INFULL,Not delivered in full,FY2024Q3,15,9439.0,13,8998.0,86.7,8.0,5043.0,1.45,1.29,False,normal
+HEB,EDI-ERROR,EDI/PO mismatch,FY2024Q3,2,49.0,2,49.0,100.0,3.0,457.0,-1.22,-1.29,False,normal
+Albertsons,PROMO-DISCREP,Promotional allowance dispute,FY2024Q3,1,691.0,1,691.0,100.0,1.75,3926.0,-0.78,-1.29,False,normal
+Costco,ASN-MISSING,ASN not submitted or late,FY2024Q2,4,811.0,4,811.0,100.0,6.25,3118.0,-0.7,-1.28,False,normal
+Walmart,EDI-ERROR,EDI/PO mismatch,FY2023Q4,5,411.0,3,199.0,60.0,6.0,675.0,-0.55,-1.28,False,normal
+Publix,DAMAGE,Damaged goods claim,FY2023Q4,3,3623.0,1,2026.0,33.3,3.0,1841.0,0.0,1.27,False,normal
+Target,OTIF-LATE,Late delivery OTIF penalty,FY2024Q1,20,21167.0,17,13189.0,85.0,17.5,11996.0,0.49,1.26,False,normal
+Walmart,OTIF-INFULL,Not delivered in full,FY2024Q3,16,15082.0,14,14148.0,87.5,13.25,10092.0,0.89,1.25,False,normal
+Publix,PROMO-DISCREP,Promotional allowance dispute,FY2023Q4,2,1265.0,1,865.0,50.0,3.0,2350.0,-0.71,-1.24,False,normal
+Albertsons,EDI-ERROR,EDI/PO mismatch,FY2024Q1,4,736.0,3,585.0,75.0,2.75,559.0,1.31,1.23,False,normal
+HEB,LABEL-NONCOMP,Label non-compliance,FY2024Q3,5,1334.0,2,560.0,40.0,5.25,925.0,-0.13,1.23,False,normal
+Amazon,PROMO-DISCREP,Promotional allowance dispute,FY2024Q3,1,2374.0,1,2374.0,100.0,2.75,4130.0,-1.39,-1.21,False,normal
+HEB,OTIF-LATE,Late delivery OTIF penalty,FY2023Q4,14,7275.0,11,5763.0,78.6,14.25,5979.0,-0.1,1.21,False,normal
+Walmart,OTIF-INFULL,Not delivered in full,FY2024Q1,9,5286.0,8,4743.0,88.9,13.25,10092.0,-1.37,-1.2,False,normal
+Target,LABEL-NONCOMP,Label non-compliance,FY2024Q1,8,3360.0,8,3360.0,100.0,5.5,1729.0,0.99,1.2,False,normal
+Target,OTIF-LATE,Late delivery OTIF penalty,FY2024Q2,10,3308.0,8,2736.0,80.0,17.5,11996.0,-1.48,-1.19,False,normal
+Albertsons,ASN-MISSING,ASN not submitted or late,FY2024Q2,6,1162.0,5,536.0,83.3,6.75,1825.0,-0.5,-1.19,False,normal
+Publix,DAMAGE,Damaged goods claim,FY2024Q1,1,226.0,0,,0.0,3.0,1841.0,-1.22,-1.16,False,normal
+Target,SHORT-SHIP,Shortage claim,FY2023Q4,8,3388.0,8,3388.0,100.0,6.5,6219.0,0.87,-1.16,False,normal
+Kroger,DAMAGE,Damaged goods claim,FY2023Q4,4,1999.0,1,437.0,25.0,3.33,3444.0,1.15,-1.15,False,normal
+Costco,LABEL-NONCOMP,Label non-compliance,FY2023Q4,3,130.0,3,130.0,100.0,5.0,1264.0,-0.82,-1.15,False,normal
+Walmart,DAMAGE,Damaged goods claim,FY2024Q3,2,1923.0,0,,0.0,2.0,1085.0,0.0,1.15,False,normal
+Target,OTIF-INFULL,Not delivered in full,FY2024Q2,4,1164.0,4,1164.0,100.0,8.0,5043.0,-0.83,-1.14,False,normal
+Albertsons,DAMAGE,Damaged goods claim,FY2024Q1,1,408.0,0,,0.0,1.33,261.0,-0.58,1.14,False,normal
+Costco,EDI-ERROR,EDI/PO mismatch,FY2024Q1,3,70.0,3,70.0,100.0,4.0,413.0,-0.46,-1.12,False,normal
+Target,DAMAGE,Damaged goods claim,FY2024Q1,2,2035.0,0,,0.0,2.0,1103.0,0.0,1.12,False,normal
+Publix,PROMO-DISCREP,Promotional allowance dispute,FY2024Q2,3,3337.0,3,3337.0,100.0,3.0,2350.0,0.0,1.12,False,normal
+Amazon,PROMO-DISCREP,Promotional allowance dispute,FY2024Q1,3,5752.0,3,5752.0,100.0,2.75,4130.0,0.2,1.11,False,normal
+Publix,LABEL-NONCOMP,Label non-compliance,FY2023Q4,6,1303.0,6,1303.0,100.0,4.0,767.0,0.87,1.1,False,normal
+Albertsons,PROMO-DISCREP,Promotional allowance dispute,FY2024Q2,1,6672.0,0,,0.0,1.75,3926.0,-0.78,1.1,False,normal
+Amazon,EDI-ERROR,EDI/PO mismatch,FY2024Q3,7,1836.0,6,1770.0,85.7,5.25,1048.0,0.74,1.1,False,normal
+Amazon,DAMAGE,Damaged goods claim,FY2024Q2,2,8691.0,1,3393.0,50.0,3.0,4635.0,-0.58,1.1,False,normal
+Albertsons,ASN-MISSING,ASN not submitted or late,FY2024Q3,6,2439.0,6,2439.0,100.0,6.75,1825.0,-0.5,1.1,False,normal
+Target,LABEL-NONCOMP,Label non-compliance,FY2024Q3,2,237.0,2,237.0,100.0,5.5,1729.0,-1.39,-1.09,False,normal
+Albertsons,EDI-ERROR,EDI/PO mismatch,FY2024Q2,3,402.0,2,264.0,66.7,2.75,559.0,0.26,-1.09,False,normal
+Kroger,EDI-ERROR,EDI/PO mismatch,FY2023Q4,3,217.0,2,159.0,66.7,4.25,464.0,-1.31,-1.08,False,normal
+Albertsons,OTIF-INFULL,Not delivered in full,FY2024Q2,13,3998.0,13,3998.0,100.0,9.25,2503.0,0.97,1.06,False,normal
+Kroger,OTIF-LATE,Late delivery OTIF penalty,FY2024Q1,9,4133.0,9,4133.0,100.0,12.25,9550.0,-0.9,-1.06,False,normal
+Target,ASN-MISSING,ASN not submitted or late,FY2024Q3,8,3133.0,7,2957.0,87.5,7.5,2465.0,0.39,1.06,False,normal
+Target,PROMO-DISCREP,Promotional allowance dispute,FY2024Q2,2,1182.0,1,530.0,50.0,1.33,786.0,1.15,1.05,False,normal
+Costco,ASN-MISSING,ASN not submitted or late,FY2024Q1,9,5006.0,8,4961.0,88.9,6.25,3118.0,0.86,1.05,False,normal
+Walmart,SHORT-SHIP,Shortage claim,FY2024Q1,8,10864.0,8,10864.0,100.0,6.0,5642.0,0.47,1.05,False,normal
+HEB,EDI-ERROR,EDI/PO mismatch,FY2023Q4,3,784.0,2,647.0,66.7,3.0,457.0,0.0,1.04,False,normal
+Kroger,ASN-MISSING,ASN not submitted or late,FY2024Q1,10,4466.0,10,4466.0,100.0,8.5,2840.0,0.36,1.02,False,normal
+Target,EDI-ERROR,EDI/PO mismatch,FY2023Q4,6,723.0,5,667.0,83.3,4.5,468.0,1.5,1.01,False,normal
+Amazon,ASN-MISSING,ASN not submitted or late,FY2023Q4,12,6965.0,12,6965.0,100.0,8.75,4299.0,1.09,1.01,False,normal
+Walmart,SHORT-SHIP,Shortage claim,FY2023Q4,3,613.0,3,613.0,100.0,6.0,5642.0,-0.71,-1.01,False,normal
+Amazon,SHORT-SHIP,Shortage claim,FY2024Q1,8,10007.0,7,9113.0,87.5,7.75,8271.0,0.15,1.01,False,normal
+Amazon,EDI-ERROR,EDI/PO mismatch,FY2024Q1,2,330.0,2,330.0,100.0,5.25,1048.0,-1.38,-1.0,False,normal
+Publix,LABEL-NONCOMP,Label non-compliance,FY2024Q3,2,281.0,2,281.0,100.0,4.0,767.0,-0.87,-1.0,False,normal
+Walmart,LABEL-NONCOMP,Label non-compliance,FY2024Q1,6,1873.0,6,1873.0,100.0,5.75,1309.0,0.1,1.0,False,normal
+Albertsons,OTIF-INFULL,Not delivered in full,FY2024Q3,7,1094.0,7,1094.0,100.0,9.25,2503.0,-0.58,-0.99,False,normal
+Publix,OTIF-LATE,Late delivery OTIF penalty,FY2023Q4,10,4235.0,9,3681.0,90.0,11.0,6542.0,-0.34,-0.99,False,normal
+Kroger,LABEL-NONCOMP,Label non-compliance,FY2024Q3,1,129.0,1,129.0,100.0,5.75,2225.0,-1.18,-0.97,False,normal
+Target,SHORT-SHIP,Shortage claim,FY2024Q3,8,8572.0,8,8572.0,100.0,6.5,6219.0,0.87,0.97,False,normal
+Albertsons,LABEL-NONCOMP,Label non-compliance,FY2023Q4,2,59.0,2,59.0,100.0,4.5,909.0,-1.44,-0.96,False,normal
+Costco,LABEL-NONCOMP,Label non-compliance,FY2024Q2,6,2203.0,6,2203.0,100.0,5.0,1264.0,0.41,0.96,False,normal
+Target,PROMO-DISCREP,Promotional allowance dispute,FY2024Q1,1,434.0,1,434.0,100.0,1.33,786.0,-0.58,-0.94,False,normal
+Walmart,PROMO-DISCREP,Promotional allowance dispute,FY2024Q3,3,6425.0,1,770.0,33.3,2.75,3987.0,0.2,0.94,False,normal
+Amazon,ASN-MISSING,ASN not submitted or late,FY2024Q3,5,1849.0,5,1849.0,100.0,8.75,4299.0,-1.26,-0.93,False,normal
+Kroger,SHORT-SHIP,Shortage claim,FY2024Q1,5,1561.0,5,1561.0,100.0,5.75,3835.0,-0.5,-0.93,False,normal
+Costco,SHORT-SHIP,Shortage claim,FY2024Q1,8,8921.0,8,8921.0,100.0,8.5,7874.0,-0.24,0.93,False,normal
+Publix,OTIF-LATE,Late delivery OTIF penalty,FY2024Q3,15,8688.0,13,8222.0,86.7,11.0,6542.0,1.36,0.92,False,normal
+HEB,DAMAGE,Damaged goods claim,FY2024Q3,1,27.0,0,,0.0,2.5,1078.0,-1.16,-0.92,False,normal
+Walmart,PROMO-DISCREP,Promotional allowance dispute,FY2024Q1,1,1621.0,1,1621.0,100.0,2.75,3987.0,-1.39,-0.91,False,normal
+HEB,SHORT-SHIP,Shortage claim,FY2023Q4,3,1454.0,2,1165.0,66.7,7.25,3377.0,-1.1,-0.91,False,normal
+HEB,SHORT-SHIP,Shortage claim,FY2024Q1,11,5318.0,11,5318.0,100.0,7.25,3377.0,0.97,0.91,False,normal
+HEB,LABEL-NONCOMP,Label non-compliance,FY2024Q1,4,626.0,4,626.0,100.0,5.25,925.0,-0.66,-0.9,False,normal
+Publix,ASN-MISSING,ASN not submitted or late,FY2024Q1,5,1362.0,5,1362.0,100.0,8.5,2628.0,-0.67,-0.89,False,normal
+Kroger,OTIF-LATE,Late delivery OTIF penalty,FY2023Q4,17,14037.0,15,12870.0,88.2,12.25,9550.0,1.32,0.88,False,normal
+Kroger,SHORT-SHIP,Shortage claim,FY2024Q3,7,5974.0,6,5304.0,85.7,5.75,3835.0,0.83,0.88,False,normal
+Walmart,EDI-ERROR,EDI/PO mismatch,FY2024Q1,7,854.0,4,539.0,57.1,6.0,675.0,0.55,0.87,False,normal
+Costco,OTIF-INFULL,Not delivered in full,FY2024Q2,9,5460.0,9,5460.0,100.0,7.5,4461.0,0.48,0.87,False,normal
+HEB,OTIF-LATE,Late delivery OTIF penalty,FY2024Q2,15,5053.0,14,4797.0,93.3,14.25,5979.0,0.3,-0.86,False,normal
+Albertsons,OTIF-LATE,Late delivery OTIF penalty,FY2023Q4,12,2895.0,12,2895.0,100.0,13.25,7646.0,-0.23,-0.86,False,normal
+Kroger,SHORT-SHIP,Shortage claim,FY2023Q4,7,5914.0,6,5716.0,85.7,5.75,3835.0,0.83,0.85,False,normal
+Amazon,DAMAGE,Damaged goods claim,FY2023Q4,2,1482.0,2,1482.0,100.0,3.0,4635.0,-0.58,-0.85,False,normal
+Amazon,OTIF-LATE,Late delivery OTIF penalty,FY2024Q3,13,9863.0,12,9792.0,92.3,15.25,15094.0,-0.56,-0.84,False,normal
+Amazon,OTIF-INFULL,Not delivered in full,FY2024Q1,9,3114.0,8,2961.0,88.9,11.0,6687.0,-0.55,-0.84,False,normal
+Publix,OTIF-INFULL,Not delivered in full,FY2024Q2,6,2295.0,6,2295.0,100.0,7.0,4145.0,-0.41,-0.84,False,normal
+Kroger,OTIF-LATE,Late delivery OTIF penalty,FY2024Q2,13,13789.0,11,10417.0,84.6,12.25,9550.0,0.21,0.83,False,normal
+HEB,SHORT-SHIP,Shortage claim,FY2024Q2,10,5108.0,10,5108.0,100.0,7.25,3377.0,0.71,0.82,False,normal
+HEB,SHORT-SHIP,Shortage claim,FY2024Q3,5,1630.0,5,1630.0,100.0,7.25,3377.0,-0.58,-0.82,False,normal
+Target,DAMAGE,Damaged goods claim,FY2024Q3,1,427.0,0,,0.0,2.0,1103.0,-1.0,-0.81,False,normal
+Walmart,PROMO-DISCREP,Promotional allowance dispute,FY2023Q4,3,1877.0,1,1241.0,33.3,2.75,3987.0,0.2,-0.81,False,normal
+Kroger,SHORT-SHIP,Shortage claim,FY2024Q2,4,1892.0,4,1892.0,100.0,5.75,3835.0,-1.17,-0.8,False,normal
+Publix,OTIF-LATE,Late delivery OTIF penalty,FY2024Q1,11,8397.0,10,7707.0,90.9,11.0,6542.0,0.0,0.8,False,normal
+Walmart,PROMO-DISCREP,Promotional allowance dispute,FY2024Q2,4,6025.0,3,2124.0,75.0,2.75,3987.0,0.99,0.79,False,normal
+HEB,OTIF-LATE,Late delivery OTIF penalty,FY2024Q3,11,5144.0,9,3657.0,81.8,14.25,5979.0,-1.3,-0.78,False,normal
+Costco,OTIF-LATE,Late delivery OTIF penalty,FY2024Q2,7,5696.0,7,5696.0,100.0,11.75,9648.0,-1.11,-0.78,False,normal
+Amazon,LABEL-NONCOMP,Label non-compliance,FY2024Q2,8,2013.0,8,2013.0,100.0,6.0,1608.0,0.82,0.78,False,normal
+Amazon,ASN-MISSING,ASN not submitted or late,FY2024Q1,8,2239.0,8,2239.0,100.0,8.75,4299.0,-0.25,-0.78,False,normal
+Costco,DAMAGE,Damaged goods claim,FY2023Q4,2,1657.0,1,69.0,50.0,3.5,3750.0,-0.78,-0.77,False,normal
+Kroger,OTIF-INFULL,Not delivered in full,FY2023Q4,7,3649.0,7,3649.0,100.0,8.25,4456.0,-0.45,-0.77,False,normal
+Walmart,OTIF-LATE,Late delivery OTIF penalty,FY2024Q1,11,10371.0,10,9598.0,90.9,16.75,18724.0,-1.43,-0.76,False,normal
+HEB,OTIF-INFULL,Not delivered in full,FY2024Q3,5,1814.0,4,1046.0,80.0,8.75,3053.0,-1.13,-0.76,False,normal
+Kroger,OTIF-INFULL,Not delivered in full,FY2024Q1,5,3686.0,4,3625.0,80.0,8.25,4456.0,-1.18,-0.74,False,normal
+HEB,ASN-MISSING,ASN not submitted or late,FY2024Q2,11,1401.0,7,429.0,63.6,8.5,2179.0,0.83,-0.74,False,normal
+Publix,OTIF-LATE,Late delivery OTIF penalty,FY2024Q2,8,4850.0,7,4811.0,87.5,11.0,6542.0,-1.02,-0.73,False,normal
+Albertsons,DAMAGE,Damaged goods claim,FY2024Q3,1,167.0,1,167.0,100.0,1.33,261.0,-0.58,-0.73,False,normal
+Costco,PROMO-DISCREP,Promotional allowance dispute,FY2024Q1,1,584.0,1,584.0,100.0,1.25,2351.0,-0.5,-0.73,False,normal
+HEB,ASN-MISSING,ASN not submitted or late,FY2024Q3,5,1418.0,4,1298.0,80.0,8.5,2179.0,-1.17,-0.72,False,normal
+HEB,LABEL-NONCOMP,Label non-compliance,FY2024Q2,4,686.0,4,686.0,100.0,5.25,925.0,-0.66,-0.72,False,normal
+Costco,LABEL-NONCOMP,Label non-compliance,FY2024Q1,8,1957.0,8,1957.0,100.0,5.0,1264.0,1.22,0.71,False,normal
+Walmart,EDI-ERROR,EDI/PO mismatch,FY2024Q3,8,821.0,7,806.0,87.5,6.0,675.0,1.1,0.71,False,normal
+HEB,PROMO-DISCREP,Promotional allowance dispute,FY2024Q1,4,7608.0,4,7608.0,100.0,2.5,4456.0,0.71,0.71,False,normal
+HEB,PROMO-DISCREP,Promotional allowance dispute,FY2024Q3,1,1305.0,1,1305.0,100.0,2.5,4456.0,-0.71,-0.71,False,normal
+Kroger,PROMO-DISCREP,Promotional allowance dispute,FY2024Q2,3,830.0,2,706.0,66.7,3.0,2200.0,0.0,-0.71,False,normal
+Kroger,PROMO-DISCREP,Promotional allowance dispute,FY2024Q1,3,3570.0,3,3570.0,100.0,3.0,2200.0,0.0,0.71,False,normal
+Albertsons,OTIF-INFULL,Not delivered in full,FY2023Q4,5,1512.0,4,1479.0,80.0,9.25,2503.0,-1.1,-0.7,False,normal
+Amazon,ASN-MISSING,ASN not submitted or late,FY2024Q2,10,6143.0,10,6143.0,100.0,8.75,4299.0,0.42,0.7,False,normal
+Walmart,SHORT-SHIP,Shortage claim,FY2024Q2,2,2216.0,2,2216.0,100.0,6.0,5642.0,-0.94,-0.69,False,normal
+Walmart,ASN-MISSING,ASN not submitted or late,FY2024Q1,6,1443.0,6,1443.0,100.0,7.25,2396.0,-0.48,-0.69,False,normal
+Target,SHORT-SHIP,Shortage claim,FY2024Q1,5,7884.0,5,7884.0,100.0,6.5,6219.0,-0.87,0.68,False,normal
+Amazon,EDI-ERROR,EDI/PO mismatch,FY2023Q4,5,562.0,4,455.0,80.0,5.25,1048.0,-0.11,-0.68,False,normal
+Publix,LABEL-NONCOMP,Label non-compliance,FY2024Q2,2,440.0,1,98.0,50.0,4.0,767.0,-0.87,-0.67,False,normal
+Publix,OTIF-INFULL,Not delivered in full,FY2024Q3,4,2686.0,4,2686.0,100.0,7.0,4145.0,-1.22,-0.66,False,normal
+Walmart,SHORT-SHIP,Shortage claim,FY2024Q3,11,8877.0,11,8877.0,100.0,6.0,5642.0,1.18,0.65,False,normal
+Kroger,OTIF-LATE,Late delivery OTIF penalty,FY2024Q3,10,6242.0,9,5025.0,90.0,12.25,9550.0,-0.63,-0.65,False,normal
+Albertsons,OTIF-INFULL,Not delivered in full,FY2024Q1,12,3408.0,11,2936.0,91.7,9.25,2503.0,0.71,0.64,False,normal
+Kroger,DAMAGE,Damaged goods claim,FY2024Q2,3,4240.0,1,292.0,33.3,3.33,3444.0,-0.58,0.64,False,normal
+Albertsons,SHORT-SHIP,Shortage claim,FY2024Q3,6,4119.0,6,4119.0,100.0,5.75,3533.0,0.26,0.64,False,normal
+Amazon,OTIF-LATE,Late delivery OTIF penalty,FY2024Q1,12,11159.0,11,10901.0,91.7,15.25,15094.0,-0.81,-0.63,False,normal
+Amazon,LABEL-NONCOMP,Label non-compliance,FY2024Q1,5,1920.0,5,1920.0,100.0,6.0,1608.0,-0.41,0.6,False,normal
+Walmart,DAMAGE,Damaged goods claim,FY2023Q4,2,652.0,1,483.0,50.0,2.0,1085.0,0.0,-0.6,False,normal
+Walmart,OTIF-LATE,Late delivery OTIF penalty,FY2023Q4,19,12193.0,18,11152.0,94.7,16.75,18724.0,0.56,-0.59,False,normal
+Costco,SHORT-SHIP,Shortage claim,FY2023Q4,9,8541.0,8,7598.0,88.9,8.5,7874.0,0.24,0.59,False,normal
+Amazon,OTIF-INFULL,Not delivered in full,FY2023Q4,7,4228.0,6,2451.0,85.7,11.0,6687.0,-1.1,-0.58,False,normal
+Amazon,EDI-ERROR,EDI/PO mismatch,FY2024Q2,7,1465.0,5,991.0,71.4,5.25,1048.0,0.74,0.58,False,normal
+Costco,OTIF-LATE,Late delivery OTIF penalty,FY2023Q4,10,6694.0,10,6694.0,100.0,11.75,9648.0,-0.41,-0.58,False,normal
+Publix,LABEL-NONCOMP,Label non-compliance,FY2024Q1,6,1045.0,6,1045.0,100.0,4.0,767.0,0.87,0.57,False,normal
+Publix,SHORT-SHIP,Shortage claim,FY2024Q2,6,4688.0,6,4688.0,100.0,5.25,3817.0,0.5,0.56,False,normal
+Walmart,DAMAGE,Damaged goods claim,FY2024Q1,2,680.0,1,136.0,50.0,2.0,1085.0,0.0,-0.56,False,normal
+HEB,DAMAGE,Damaged goods claim,FY2024Q2,2,447.0,0,,0.0,2.5,1078.0,-0.39,-0.55,False,normal
+Costco,DAMAGE,Damaged goods claim,FY2024Q2,2,2285.0,0,,0.0,3.5,3750.0,-0.78,-0.54,False,normal
+Publix,EDI-ERROR,EDI/PO mismatch,FY2024Q1,2,134.0,2,134.0,100.0,4.0,567.0,-0.59,-0.53,False,normal
+Kroger,DAMAGE,Damaged goods claim,FY2024Q1,3,4093.0,3,4093.0,100.0,3.33,3444.0,-0.58,0.52,False,normal
+Publix,SHORT-SHIP,Shortage claim,FY2023Q4,7,4620.0,7,4620.0,100.0,5.25,3817.0,1.17,0.51,False,normal
+Costco,LABEL-NONCOMP,Label non-compliance,FY2024Q3,3,768.0,3,768.0,100.0,5.0,1264.0,-0.82,-0.51,False,normal
+Albertsons,OTIF-LATE,Late delivery OTIF penalty,FY2024Q3,7,4919.0,5,3986.0,71.4,13.25,7646.0,-1.16,-0.5,False,normal
+Target,SHORT-SHIP,Shortage claim,FY2024Q2,5,5033.0,5,5033.0,100.0,6.5,6219.0,-0.87,-0.49,False,normal
+Albertsons,SHORT-SHIP,Shortage claim,FY2023Q4,5,3984.0,5,3984.0,100.0,5.75,3533.0,-0.78,0.49,False,normal
+Albertsons,ASN-MISSING,ASN not submitted or late,FY2023Q4,9,2093.0,8,1738.0,88.9,6.75,1825.0,1.5,0.48,False,normal
+Publix,EDI-ERROR,EDI/PO mismatch,FY2024Q2,2,175.0,2,175.0,100.0,4.0,567.0,-0.59,-0.48,False,normal
+Publix,EDI-ERROR,EDI/PO mismatch,FY2023Q4,3,176.0,3,176.0,100.0,4.0,567.0,-0.3,-0.48,False,normal
+Target,LABEL-NONCOMP,Label non-compliance,FY2024Q2,6,1073.0,6,1073.0,100.0,5.5,1729.0,0.2,-0.48,False,normal
+Costco,ASN-MISSING,ASN not submitted or late,FY2023Q4,9,3963.0,8,2759.0,88.9,6.25,3118.0,0.86,0.47,False,normal
+HEB,EDI-ERROR,EDI/PO mismatch,FY2024Q1,4,603.0,3,404.0,75.0,3.0,457.0,1.22,0.46,False,normal
+Costco,OTIF-INFULL,Not delivered in full,FY2023Q4,10,4981.0,9,4385.0,90.0,7.5,4461.0,0.8,0.45,False,normal
+Albertsons,EDI-ERROR,EDI/PO mismatch,FY2024Q3,2,494.0,1,9.0,50.0,2.75,559.0,-0.78,-0.45,False,normal
+HEB,OTIF-LATE,Late delivery OTIF penalty,FY2024Q1,17,6446.0,17,6446.0,100.0,14.25,5979.0,1.1,0.44,False,normal
+Publix,ASN-MISSING,ASN not submitted or late,FY2024Q2,5,2000.0,5,2000.0,100.0,8.5,2628.0,-0.67,-0.44,False,normal
+Amazon,PROMO-DISCREP,Promotional allowance dispute,FY2023Q4,4,4763.0,2,3573.0,50.0,2.75,4130.0,0.99,0.43,False,normal
+Publix,SHORT-SHIP,Shortage claim,FY2024Q1,4,4493.0,4,4493.0,100.0,5.25,3817.0,-0.83,0.43,False,normal
+Target,EDI-ERROR,EDI/PO mismatch,FY2024Q3,4,578.0,3,550.0,75.0,4.5,468.0,-0.5,0.43,False,normal
+Walmart,ASN-MISSING,ASN not submitted or late,FY2024Q2,7,1801.0,5,1350.0,71.4,7.25,2396.0,-0.1,-0.43,False,normal
+Albertsons,DAMAGE,Damaged goods claim,FY2024Q2,2,208.0,0,,0.0,1.33,261.0,1.15,-0.41,False,normal
+HEB,OTIF-INFULL,Not delivered in full,FY2024Q1,9,2380.0,9,2380.0,100.0,8.75,3053.0,0.08,-0.41,False,normal
+Costco,PROMO-DISCREP,Promotional allowance dispute,FY2024Q2,2,1403.0,2,1403.0,100.0,1.25,2351.0,1.5,-0.39,False,normal
+HEB,LABEL-NONCOMP,Label non-compliance,FY2023Q4,8,1055.0,8,1055.0,100.0,5.25,925.0,1.45,0.39,False,normal
+Albertsons,ASN-MISSING,ASN not submitted or late,FY2024Q1,6,1607.0,6,1607.0,100.0,6.75,1825.0,-0.5,-0.39,False,normal
+Publix,PROMO-DISCREP,Promotional allowance dispute,FY2024Q3,5,2683.0,2,1035.0,40.0,3.0,2350.0,1.41,0.38,False,normal
+Albertsons,LABEL-NONCOMP,Label non-compliance,FY2024Q1,6,572.0,6,572.0,100.0,4.5,909.0,0.87,-0.38,False,normal
+Target,LABEL-NONCOMP,Label non-compliance,FY2023Q4,6,2244.0,5,1689.0,83.3,5.5,1729.0,0.2,0.38,False,normal
+Albertsons,SHORT-SHIP,Shortage claim,FY2024Q1,5,3871.0,5,3871.0,100.0,5.75,3533.0,-0.78,0.37,False,normal
+Walmart,ASN-MISSING,ASN not submitted or late,FY2024Q3,5,1896.0,5,1896.0,100.0,7.25,2396.0,-0.86,-0.36,False,normal
+Costco,PROMO-DISCREP,Promotional allowance dispute,FY2024Q3,1,1506.0,1,1506.0,100.0,1.25,2351.0,-0.5,-0.35,False,normal
+Kroger,LABEL-NONCOMP,Label non-compliance,FY2024Q1,4,1479.0,3,1403.0,75.0,5.75,2225.0,-0.43,-0.34,False,normal
+Amazon,PROMO-DISCREP,Promotional allowance dispute,FY2024Q2,3,3629.0,1,1691.0,33.3,2.75,4130.0,0.2,-0.34,False,normal
+Albertsons,PROMO-DISCREP,Promotional allowance dispute,FY2023Q4,3,4738.0,3,4738.0,100.0,1.75,3926.0,1.31,0.32,False,normal
+Target,DAMAGE,Damaged goods claim,FY2023Q4,3,847.0,2,541.0,66.7,2.0,1103.0,1.0,-0.31,False,normal
+Albertsons,EDI-ERROR,EDI/PO mismatch,FY2023Q4,2,603.0,1,586.0,50.0,2.75,559.0,-0.78,0.31,False,normal
+Walmart,EDI-ERROR,EDI/PO mismatch,FY2024Q2,4,613.0,3,544.0,75.0,6.0,675.0,-1.1,-0.3,False,normal
+Walmart,LABEL-NONCOMP,Label non-compliance,FY2023Q4,5,1477.0,5,1477.0,100.0,5.75,1309.0,-0.3,0.3,False,normal
+HEB,OTIF-INFULL,Not delivered in full,FY2024Q2,8,2580.0,8,2580.0,100.0,8.75,3053.0,-0.23,-0.29,False,normal
+Publix,PROMO-DISCREP,Promotional allowance dispute,FY2024Q1,2,2117.0,2,2117.0,100.0,3.0,2350.0,-0.71,-0.27,False,normal
+Amazon,DAMAGE,Damaged goods claim,FY2024Q3,5,3731.0,2,1204.0,40.0,3.0,4635.0,1.15,-0.24,False,normal
+Costco,ASN-MISSING,ASN not submitted or late,FY2024Q3,3,2693.0,3,2693.0,100.0,6.25,3118.0,-1.02,-0.24,False,normal
+Kroger,ASN-MISSING,ASN not submitted or late,FY2024Q2,8,3219.0,6,1495.0,75.0,8.5,2840.0,-0.12,0.24,False,normal
+Costco,EDI-ERROR,EDI/PO mismatch,FY2023Q4,4,345.0,2,225.0,50.0,4.0,413.0,0.0,-0.22,False,normal
+Target,ASN-MISSING,ASN not submitted or late,FY2023Q4,9,2601.0,7,2176.0,77.8,7.5,2465.0,1.16,0.21,False,normal
+Target,OTIF-INFULL,Not delivered in full,FY2024Q1,7,4310.0,6,3925.0,85.7,8.0,5043.0,-0.21,-0.21,False,normal
+HEB,EDI-ERROR,EDI/PO mismatch,FY2024Q2,3,392.0,2,351.0,66.7,3.0,457.0,0.0,-0.21,False,normal
+Amazon,SHORT-SHIP,Shortage claim,FY2024Q3,10,8591.0,8,7629.0,80.0,7.75,8271.0,1.32,0.19,False,normal
+Publix,DAMAGE,Damaged goods claim,FY2024Q3,5,1579.0,2,909.0,40.0,3.0,1841.0,1.22,-0.19,False,normal
+Costco,SHORT-SHIP,Shortage claim,FY2024Q3,11,7659.0,10,7573.0,90.9,8.5,7874.0,1.2,-0.19,False,normal
+Amazon,SHORT-SHIP,Shortage claim,FY2024Q2,6,8591.0,6,8591.0,100.0,7.75,8271.0,-1.02,0.19,False,normal
+Kroger,OTIF-INFULL,Not delivered in full,FY2024Q3,11,4615.0,11,4615.0,100.0,8.25,4456.0,1.0,0.15,False,normal
+Costco,DAMAGE,Damaged goods claim,FY2024Q3,4,3340.0,1,2335.0,25.0,3.5,3750.0,0.26,-0.15,False,normal
+Publix,OTIF-INFULL,Not delivered in full,FY2024Q1,9,4462.0,9,4462.0,100.0,7.0,4145.0,0.82,0.14,False,normal
+Kroger,EDI-ERROR,EDI/PO mismatch,FY2024Q3,5,432.0,2,118.0,40.0,4.25,464.0,0.78,-0.14,False,normal
+HEB,DAMAGE,Damaged goods claim,FY2024Q1,3,1225.0,1,594.0,33.3,2.5,1078.0,0.39,0.13,False,normal
+Kroger,EDI-ERROR,EDI/PO mismatch,FY2024Q1,4,435.0,3,268.0,75.0,4.25,464.0,-0.26,-0.13,False,normal
+Albertsons,PROMO-DISCREP,Promotional allowance dispute,FY2024Q1,2,3603.0,1,1507.0,50.0,1.75,3926.0,0.26,-0.13,False,normal
+Target,PROMO-DISCREP,Promotional allowance dispute,FY2024Q3,1,742.0,1,742.0,100.0,1.33,786.0,-0.58,-0.12,False,normal
+Kroger,ASN-MISSING,ASN not submitted or late,FY2023Q4,13,3018.0,10,2154.0,76.9,8.5,2840.0,1.07,0.11,False,normal
+Costco,OTIF-INFULL,Not delivered in full,FY2024Q3,8,4583.0,8,4583.0,100.0,7.5,4461.0,0.16,0.11,False,normal
+Target,EDI-ERROR,EDI/PO mismatch,FY2024Q1,4,442.0,3,367.0,75.0,4.5,468.0,-0.5,-0.1,False,normal
+Amazon,OTIF-LATE,Late delivery OTIF penalty,FY2024Q2,15,15703.0,13,13906.0,86.7,15.25,15094.0,-0.06,0.1,False,normal
+Walmart,LABEL-NONCOMP,Label non-compliance,FY2024Q3,9,1361.0,9,1361.0,100.0,5.75,1309.0,1.3,0.09,False,normal
+Walmart,OTIF-LATE,Late delivery OTIF penalty,FY2024Q2,17,17703.0,16,17347.0,94.1,16.75,18724.0,0.06,-0.09,False,normal
+Target,ASN-MISSING,ASN not submitted or late,FY2024Q1,6,2517.0,5,1039.0,83.3,7.5,2465.0,-1.16,0.08,False,normal
+Kroger,LABEL-NONCOMP,Label non-compliance,FY2024Q2,8,2057.0,8,2057.0,100.0,5.75,2225.0,0.56,-0.08,False,normal
+Costco,OTIF-LATE,Late delivery OTIF penalty,FY2024Q3,13,9244.0,12,9105.0,92.3,11.75,9648.0,0.29,-0.08,False,normal
+Publix,ASN-MISSING,ASN not submitted or late,FY2024Q3,8,2512.0,8,2512.0,100.0,8.5,2628.0,-0.1,-0.08,False,normal
+HEB,ASN-MISSING,ASN not submitted or late,FY2024Q1,11,2249.0,10,2088.0,90.9,8.5,2179.0,0.83,0.07,False,normal
+Publix,DAMAGE,Damaged goods claim,FY2024Q2,3,1937.0,0,,0.0,3.0,1841.0,0.0,0.07,False,normal
+Target,OTIF-LATE,Late delivery OTIF penalty,FY2024Q3,21,11538.0,19,10586.0,90.5,17.5,11996.0,0.69,-0.06,False,normal
+Target,OTIF-INFULL,Not delivered in full,FY2023Q4,6,5258.0,6,5258.0,100.0,8.0,5043.0,-0.41,0.06,False,normal
+Albertsons,OTIF-LATE,Late delivery OTIF penalty,FY2024Q2,14,7330.0,14,7330.0,100.0,13.25,7646.0,0.14,-0.06,False,normal
+Walmart,OTIF-INFULL,Not delivered in full,FY2024Q2,13,9868.0,12,9510.0,92.3,13.25,10092.0,-0.08,-0.06,False,normal
+Costco,EDI-ERROR,EDI/PO mismatch,FY2024Q3,2,427.0,2,427.0,100.0,4.0,413.0,-0.93,0.05,False,normal
+Amazon,LABEL-NONCOMP,Label non-compliance,FY2024Q3,8,1631.0,8,1631.0,100.0,6.0,1608.0,0.82,0.04,False,normal
+Albertsons,LABEL-NONCOMP,Label non-compliance,FY2024Q2,5,874.0,5,874.0,100.0,4.5,909.0,0.29,-0.04,False,normal
+Walmart,OTIF-INFULL,Not delivered in full,FY2023Q4,15,10132.0,15,10132.0,100.0,13.25,10092.0,0.57,0.01,False,normal
+Amazon,OTIF-INFULL,Not delivered in full,FY2024Q2,13,6730.0,13,6730.0,100.0,11.0,6687.0,0.55,0.01,False,normal
+Target,OTIF-LATE,Late delivery OTIF penalty,FY2023Q4,19,11973.0,18,11779.0,94.7,17.5,11996.0,0.3,-0.0,False,normal

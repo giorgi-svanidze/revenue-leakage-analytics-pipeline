@@ -1,0 +1,25 @@
+warehouse_name,region,capacity_tier,fiscal_quarter,total_shipments,late_shipments,late_pct,short_shipments,short_pct,missing_asn,label_violations,avg_fill_rate_pct,avg_dock_delay_hrs,total_deductions,total_deduction_amt,invalid_deduction_amt,avg_deduction_amt,deductions_per_shipment
+Memphis DC,South,small,FY2023Q4,95,6,6.3,14,14.7,7,8,98.93,1.87,77,58219.0,54784.0,756.0,0.811
+Chicago DC,Midwest,large,FY2023Q4,96,16,16.7,7,7.3,11,7,99.53,1.67,76,47979.0,42426.0,631.0,0.792
+Edison DC,Northeast,medium,FY2023Q4,92,11,12.0,8,8.7,8,5,99.21,1.85,75,43788.0,35346.0,584.0,0.815
+LA DC,West,large,FY2023Q4,95,10,10.5,5,5.3,7,3,99.63,1.85,82,34604.0,28517.0,422.0,0.863
+Atlanta DC,South,medium,FY2023Q4,83,7,8.4,7,8.4,11,7,99.54,1.84,67,27940.0,21494.0,417.0,0.807
+Dallas DC,South,large,FY2023Q4,88,8,9.1,7,8.0,7,5,99.57,1.43,59,26155.0,23562.0,443.0,0.67
+Chicago DC,Midwest,large,FY2024Q1,79,9,11.4,5,6.3,7,4,99.37,1.52,71,65416.0,52108.0,921.0,0.899
+Dallas DC,South,large,FY2024Q1,81,10,12.3,7,8.6,7,5,99.14,1.83,61,46278.0,43061.0,759.0,0.753
+Edison DC,Northeast,medium,FY2024Q1,81,8,9.9,10,12.3,10,8,98.94,2.01,80,40293.0,37537.0,504.0,0.988
+Atlanta DC,South,medium,FY2024Q1,78,8,10.3,3,3.8,12,4,99.69,1.68,69,36852.0,35061.0,534.0,0.885
+Memphis DC,South,small,FY2024Q1,69,14,20.3,8,11.6,10,3,98.73,1.75,63,35716.0,30673.0,567.0,0.913
+LA DC,West,large,FY2024Q1,73,11,15.1,1,1.4,8,4,99.85,1.66,63,30902.0,29652.0,491.0,0.863
+Dallas DC,South,large,FY2024Q2,76,9,11.8,5,6.6,6,6,99.51,2.0,66,45261.0,41515.0,686.0,0.868
+Atlanta DC,South,medium,FY2024Q2,88,9,10.2,7,8.0,10,8,99.57,1.6,83,42884.0,32393.0,517.0,0.943
+Chicago DC,Midwest,large,FY2024Q2,77,11,14.3,6,7.8,7,6,99.48,1.99,67,42081.0,31527.0,628.0,0.87
+Edison DC,Northeast,medium,FY2024Q2,82,16,19.5,9,11.0,8,3,98.89,1.76,61,39466.0,27335.0,647.0,0.744
+Memphis DC,South,small,FY2024Q2,83,13,15.7,10,12.0,6,1,99.11,1.71,58,31212.0,29213.0,538.0,0.699
+LA DC,West,large,FY2024Q2,71,10,14.1,5,7.0,6,5,99.37,1.66,53,20217.0,18751.0,381.0,0.746
+Edison DC,Northeast,medium,FY2024Q3,96,10,10.4,8,8.3,1,10,99.64,1.54,75,47507.0,40234.0,633.0,0.781
+LA DC,West,large,FY2024Q3,101,19,18.8,7,6.9,8,5,99.65,1.44,68,45624.0,39842.0,671.0,0.673
+Atlanta DC,South,medium,FY2024Q3,70,8,11.4,3,4.3,5,2,99.78,1.76,66,41728.0,37449.0,632.0,0.943
+Dallas DC,South,large,FY2024Q3,75,9,12.0,9,12.0,2,4,98.95,1.78,65,38609.0,34467.0,594.0,0.867
+Chicago DC,Midwest,large,FY2024Q3,82,9,11.0,8,9.8,3,3,99.49,1.76,66,37992.0,36293.0,576.0,0.805
+Memphis DC,South,small,FY2024Q3,89,10,11.2,9,10.1,9,7,98.94,2.11,62,35496.0,32200.0,573.0,0.697
