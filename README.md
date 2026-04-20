@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![SQL](https://img.shields.io/badge/SQL-DuckDB-yellow)
-![Status](https://img.shields.io/badge/Status-Live-brightgreen)
+[![Live Dashboard](https://img.shields.io/badge/Streamlit-Live_App-brightgreen)](https://revenue-leakage-analytics-pipeline-duwwryhla3abry4f5xtafh.streamlit.app/)
 
 > A SQL/Python analytics pipeline that transforms raw retailer deduction and shipment data into decision-ready marts for identifying revenue leakage, invalid deductions, and operational root causes across CPG/FMCG supply chains.
 
