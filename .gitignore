@@ -10,3 +10,6 @@ venv/
 data/synthetic/fact_*.csv
 analysis/*.csv
 *.duckdb
+
+.DS_Store
+**/.DS_Store
