@@ -37,6 +37,34 @@ It is the analytics layer behind [MarginRecover](https://github.com/giorgi-svani
 
 ---
 
+## Anomaly Detection
+
+This project includes anomaly detection to identify unusual spikes in deduction behavior.
+
+- Uses z-score methodology based on historical averages and standard deviation
+- Partitioned by retailer and reason code for accurate contextual comparison
+- Flags anomalies when deviation exceeds ±2 standard deviations
+
+This allows detection of:
+- sudden increases in specific deduction types
+- retailer-specific behavioral shifts
+- operational breakdowns not visible in aggregate metrics
+
+  
+---
+
+## Key Recommendations
+
+Based on the analysis:
+
+- Prioritize auditing high-impact retailers (Amazon, Walmart) with consistently high invalid deduction rates
+- Investigate SHORT-SHIP discrepancies as the fastest-growing deduction driver
+- Focus on high-risk warehouses with elevated OTIF failure rates
+- Implement automated dispute workflows for high-invalid-rate deduction categories
+
+These actions could significantly reduce revenue leakage and improve recovery efficiency.
+---
+
 ## Key Recommendation
 
 Based on the analysis, suppliers should prioritize:
@@ -107,6 +135,22 @@ The three-layer model (staging → intermediate → marts) follows the **dbt sta
 
 All deduction-level and shipment-level data is **synthetic**, designed to reflect real trade spend distributions based on RVCF and GMA industry benchmarks. Retailer penalty rates and OTIF thresholds reflect real published standards.
 
+
+## Dashboard
+
+A lightweight Streamlit dashboard is included to explore:
+
+- Executive KPI trends
+- Retailer-level leakage patterns
+- Warehouse OTIF performance
+- Reason-code trends
+- Anomaly detection outputs
+
+Run locally:
+
+```bash
+streamlit run app.py
+```
 ---
 
 ## How to run
@@ -117,10 +161,10 @@ cd margin-analytics-pipeline
 pip install -r requirements.txt
 
 # Generate synthetic data
-python data/generate_data.py
+python3 data/generate_data.py
 
 # Run full pipeline and print executive summary
-python pipeline.py
+python3 pipeline.py
 ```
 
 Output CSVs are written to `analysis/`.
